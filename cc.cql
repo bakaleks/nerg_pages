@@ -1,10 +1,7 @@
 //CREATE KEYSPACE cc_<username>
 //    WITH REPLICATION = {
 //            'class' : 'NetworkTopologyStrategy', 
-//            'DC1' : 1, 
-//            'DC2' : 1, 
-//            'DC1_LOL' : 1, 
-//            'DC2_LOL' : 1
+//            'datacenter1' : 1, 
 //    };
 
 //Lets create simple settings table
